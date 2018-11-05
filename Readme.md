@@ -193,9 +193,9 @@ The images on this repository are based on the following work:
 
 # Issues and Contributing
   - Please let us know by [filing a new 
-issue](https://github.com/turlucode/ros-docker-gui/issues/new).
+issue](https://github.com/turlucode/docker-openpose-devel/issues/new).
   - You can contribute by [opening a pull 
-request](https://github.com/turlucode/ros-docker-gui/compare).
+request](https://github.com/turlucode/docker-openpose-devel/compare).
 
 
    [nvidia-docker]: https://github.com/NVIDIA/nvidia-docker
